@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Can 👋
 
-<!--
-**cancskn/cancskn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSc in Computer Engineering | MSc in Computer Science  
+🐍 Learning Python & AI/Data Science at ITStep Academy
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+### 🎮 Antichess Engine
+- Java-based board representation + Minimax/alpha‑beta AI
+- Modes: human vs human, human vs AI
+- 🧩 Key highlights:
+  - Efficient move generation & forcing capture logic
+  - Optimized pruning heuristics for gameplay performance
+- ▶️ Run with: `java -jar antichess.jar`
+
+
+![Can's GitHub stats](https://github-readme-stats.vercel.app/api?username=cancskn&show_icons=true&theme=gotham)
