@@ -14,5 +14,6 @@
   - Optimized pruning heuristics for gameplay performance
 - ▶️ Run with: `java -jar antichess.jar`
 
-
+<!--
 ![Can's GitHub stats](https://github-readme-stats.vercel.app/api?username=cancskn&show_icons=true&theme=gotham)
+-->
